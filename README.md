@@ -1,5 +1,5 @@
 # Topics
-
+Aouther by coding ninjas code statgies
 * [**Installation of Redux**](#installation-of-redux)
 * [**Reducers**](#reducer)
 * [**Action**](#action)
