@@ -11,7 +11,11 @@ Aouther by coding ninjas code statgies
 * [**createAsyncThunk**](#createasyncthunk)
 * [**thunkAPI**](#thunkapi)
 
+# Hosted link
+https://yourshop-react.onrender.com
 
+# Source code
+https://github.com/jaisreera/Ecomerce-app-react
 
 # Installation of Redux
 ```javascript
